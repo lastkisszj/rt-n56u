@@ -1,11 +1,11 @@
 /* XY-C1/C5 */
 
-#define BOARD_PID		"XY-C1"
-#define BOARD_NAME		"XY-C1"
-#define BOARD_DESC		"XY-C1 Router"
-#define BOARD_VENDOR_NAME	"ChengDu JiZhi"
-#define BOARD_VENDOR_URL	"https://www.xyblock.net/"
-#define BOARD_MODEL_URL		"https://www.xyblock.net/"
+#define BOARD_PID		"ER-X Pro"
+#define BOARD_NAME		"ER-X Pro"
+#define BOARD_DESC		"ER-X Pro Router"
+#define BOARD_VENDOR_NAME	"Modify by lastkiss"
+#define BOARD_VENDOR_URL	"https://"
+#define BOARD_MODEL_URL		"https://"
 #define BOARD_BOOT_TIME		30
 #define BOARD_FLASH_TIME	120
 #undef BOARD_GPIO_BTN_FN1
